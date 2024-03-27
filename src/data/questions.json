@@ -1,0 +1,77 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "options": [
+      "Hyperlinks and Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyper Text Markup Language",
+      "Hyper Tool Markup Language"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "title": "Which programming language is known for its use in machine learning and data science?",
+    "options": ["Java", "JavaScript", "Python", "C++"],
+    "correctOptionIndex": 2
+  },
+  {
+    "title": "What does CSS stand for?",
+    "options": [
+      "Creative Style Sheets",
+      "Colorful Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "title": "Which company developed the JavaScript programming language?",
+    "options": ["Google", "Netscape", "Oracle", "Microsoft"],
+    "correctOptionIndex": 1
+  },
+  {
+    "title": "What does SQL stand for?",
+    "options": [
+      "Sequential Query Language",
+      "Structured Query Language",
+      "Structured Question Language",
+      "Standard Query Language"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "title": "Which of the following is not a programming language?",
+    "options": ["Java", "SQL", "Python", "HTML"],
+    "correctOptionIndex": 3
+  },
+  {
+    "title": "What is the main purpose of a firewall?",
+    "options": [
+      "To increase internet speed",
+      "To protect a network from unauthorized access",
+      "To optimize network performance",
+      "To prevent computer viruses"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "title": "What is the default extension of a Cascading Style Sheets file?",
+    "options": [".js", ".xml", ".css", ".html"],
+    "correctOptionIndex": 2
+  },
+  {
+    "title": "What does ISP stand for?",
+    "options": [
+      "Internet System Protocol",
+      "Internet Security Protocol",
+      "Internal Service Protocol",
+      "Internet Service Provider"
+    ],
+    "correctOptionIndex": 3
+  },
+  {
+    "title": "Which programming language is often used for developing web applications?",
+    "options": ["Python", "C++", "JavaScript", "Swift"],
+    "correctOptionIndex": 2
+  }
+]
