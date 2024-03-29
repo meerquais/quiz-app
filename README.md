@@ -25,7 +25,7 @@ The `Question` component is responsible for displaying a single question within 
 
 ## Usage
 
-To use the Quiz App, follow these steps:
+To use the Quiz Application, follow these steps:
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
